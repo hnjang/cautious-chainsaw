@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Dante",
+        "score": 97,
+        "city": "Tokyo"
+    },
+    {
+        "name": "Romy",
+        "score": 71,
+        "city": "Rio"
+    },
+    {
+        "name": "Arsalan",
+        "score": 82,
+        "city": "London"
+    },
+    {
+        "name": "Yuvraj",
+        "score": 85,
+        "city": "Beijing"
+    },
+    {
+        "name": "Ines",
+        "score": 79,
+        "city": "Athens"
+    },
+    {
+        "name": "Matias",
+        "score": 68,
+        "city": "Tokyo"
+    },
+    {
+        "name": "Nida",
+        "score": 90,
+        "city": "Rio"
+    },
+    {
+        "name": "Mattie",
+        "score": 73,
+        "city": "London"
+    },
+    {
+        "name": "Aizah",
+        "score": 79,
+        "city": "Beijing"
+    },
+    {
+        "name": "Vicky",
+        "score": 99,
+        "city": "Athens"
+    }
+]
